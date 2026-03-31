@@ -1,0 +1,10 @@
+=====================================
+FILE 8: vercel.json (ROOT)
+=====================================
+{
+  "buildCommand": "npm run build",
+  "devCommand": "npm run dev",
+  "installCommand": "npm install",
+  "framework": "nextjs",
+  "nodejs": "18.x"
+}
